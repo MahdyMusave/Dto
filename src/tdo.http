@@ -1,0 +1,15 @@
+### get
+GET http://localhost:3000
+
+###post
+
+Post http://localhost:3000
+Content-Type: application/json
+{
+  "age": 1,
+  "name": "Elon Musk",
+  "acceptedTOS": true,
+  "nums": [
+    2
+  ]
+}
